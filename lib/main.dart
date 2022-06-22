@@ -22,8 +22,8 @@ class MyApp extends StatelessWidget {
         .appBarTheme
         .copyWith(brightness: Brightness.dark),
       ),
-      color: Colors.red,
-      title: "test",
+      // color: Colors.red,
+      title: "water_project",
       themeMode:ThemeMode.system,
       home: Home(),
     );
